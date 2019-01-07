@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0741af80-ac81-4b72-a43a-be688215a155" name="Default" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k10h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k1h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k2h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k3h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k4h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k5h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k6h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k7h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k8h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n1000k9h8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k10h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k1h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k2h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k3h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k4h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k5h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k6h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k7h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k8h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/n50k9h6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Instance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks scheduling/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks scheduling/InstancesLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks scheduling/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks scheduling/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/result.xlsx" afterDir="false" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1590010897">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="txt" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="62" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1974" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1974" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2138904266">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2566" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2566" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1871640887">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="625" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="625" />
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="170">
+              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+=======
+            <state relative-caret-position="60">
+              <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/results/n100k1h4.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Instance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Instance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+              <folding>
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/n10k0h0.2.txt" />
+        <option value="$PROJECT_DIR$/src/Task.java" />
+        <option value="$PROJECT_DIR$/src/InstancesLoader.java" />
+        <option value="$PROJECT_DIR$/results/n10k1h8.txt" />
+        <option value="$PROJECT_DIR$/src/Tester.java" />
+        <option value="$PROJECT_DIR$/results/n10k3h2.txt" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Instance.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="502" />
+    <option name="y" value="10" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tasks scheduling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks scheduling" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks scheduling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks scheduling" type="462c0819:PsiDirectoryNode" />
+              <item name="instances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tasks scheduling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks scheduling" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="results" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+            </path>
+            <path>
+              <item name="Tasks scheduling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tasks scheduling" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544876694527" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tasks scheduling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0741af80-ac81-4b72-a43a-be688215a155" name="Default" comment="" />
+      <created>1540037236119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540037236119</updated>
+      <workItem from="1540037237337" duration="434000" />
+      <workItem from="1540037692687" duration="158000" />
+      <workItem from="1540038048783" duration="3994000" />
+      <workItem from="1540140089881" duration="3048000" />
+      <workItem from="1540223493976" duration="93000" />
+      <workItem from="1540635827197" duration="5335000" />
+      <workItem from="1540713110573" duration="1458000" />
+      <workItem from="1540811243865" duration="3521000" />
+      <workItem from="1540907670871" duration="3099000" />
+      <workItem from="1540924501621" duration="6228000" />
+<<<<<<< HEAD
+      <workItem from="1541333763581" duration="294000" />
+=======
+      <workItem from="1541415779984" duration="1014000" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="32901000" />
+=======
+    <option name="totallyTimeSpent" value="33538000" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1280" height="775" extended-state="6" />
+    <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28545234" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28687197" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32997763" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="136" selection-start-line="25" selection-start-column="136" selection-end-line="25" selection-end-column="136" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/n1000k1h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k3h2.txt" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    <entry file="file://$PROJECT_DIR$/instances/sch10.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/n10k1h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k2h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k3h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k4h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k5h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k6h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k7h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k8h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k9h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n10k10h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k1h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k2h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k3h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k4h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k5h8.txt" />
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/results/n50k1h6.txt" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    <entry file="file://$PROJECT_DIR$/results/n50k2h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k3h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k4h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k5h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k6h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k7h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k8h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k9h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k10h6.txt" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/results/n100k2h4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/n100k3h4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/results/n100k1h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k2h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k3h4.txt" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    <entry file="file://$PROJECT_DIR$/results/n100k4h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k5h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k6h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k7h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k8h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k9h4.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k10h4.txt" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/results/n500k2h2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="72" lean-forward="true" selection-start-column="72" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/results/n500k1h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k2h2.txt" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+    <entry file="file://$PROJECT_DIR$/results/n500k3h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k4h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k5h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k6h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k7h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k8h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k9h2.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n500k10h2.txt" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/results/n500k1h2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/n100k1h8.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n100k1h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n50k1h6.txt" />
+    <entry file="file://$PROJECT_DIR$/results/n1000k1h8.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/n100k1h4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="74" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+>>>>>>> 76ab89962104d85649fee5adf021f2b0938ae788
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
