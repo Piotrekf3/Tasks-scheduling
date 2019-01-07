@@ -133,4 +133,25 @@ public class Instance {
         else
             this.startTime = 0;
     }
+
+    public void mutateInstance(double h) {
+        Random generator = new Random();
+        int firstTaskIndex = generator.nextInt(this.tasks.size());
+        int secondTaskIndex;
+        int deadline = (int) Math.floor(sumProcessingTime() * h);
+        int goalValue = this.computeGoalFunction(h, deadline);
+
+        do {
+           secondTaskIndex = generator.nextInt(this.tasks.size());
+        }
+        while(secondTaskIndex == firstTaskIndex);
+
+        Collections.swap(this.tasks, firstTaskIndex, secondTaskIndex);
+
+        int goalValueMutated = this.computeGoalFunction(h, deadline);
+
+        if(goalValueMutated >= goalValue) {
+            Collections.swap(this.tasks, firstTaskIndex, secondTaskIndex);
+        }
+    }
 }
