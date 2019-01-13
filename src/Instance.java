@@ -141,7 +141,7 @@ public class Instance {
         int sumOfTime = sumProcessingTime();
         int deadline = (int) Math.floor(sumOfTime * h);
         int goalValue = this.computeGoalFunction(h, deadline);
-        int oldStartTime;
+        int firstOldTIme = this.startTime;
 
         do {
            secondTaskIndex = generator.nextInt(this.tasks.size());
@@ -151,6 +151,7 @@ public class Instance {
         Collections.swap(this.tasks, firstTaskIndex, secondTaskIndex);
 
         int oldGoalValue;
+        int oldStartTime;
         int actualGoalValue;
         for(int i = 0; i <= sumOfTime; i++) {
             oldGoalValue = this.computeGoalFunction(h, deadline);
@@ -167,6 +168,7 @@ public class Instance {
 
         if(goalValueMutated >= goalValue) {
             Collections.swap(this.tasks, firstTaskIndex, secondTaskIndex);
+            this.startTime = firstOldTIme;
         }
     }
 }
