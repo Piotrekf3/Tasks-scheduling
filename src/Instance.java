@@ -138,8 +138,10 @@ public class Instance {
         Random generator = new Random();
         int firstTaskIndex = generator.nextInt(this.tasks.size());
         int secondTaskIndex;
-        int deadline = (int) Math.floor(sumProcessingTime() * h);
+        int sumOfTime = sumProcessingTime();
+        int deadline = (int) Math.floor(sumOfTime * h);
         int goalValue = this.computeGoalFunction(h, deadline);
+        int oldStartTime;
 
         do {
            secondTaskIndex = generator.nextInt(this.tasks.size());
@@ -147,6 +149,19 @@ public class Instance {
         while(secondTaskIndex == firstTaskIndex);
 
         Collections.swap(this.tasks, firstTaskIndex, secondTaskIndex);
+
+        int oldGoalValue;
+        int actualGoalValue;
+        for(int i = 0; i <= sumOfTime; i++) {
+            oldGoalValue = this.computeGoalFunction(h, deadline);
+            oldStartTime = this.startTime;
+            this.startTime = i;
+            actualGoalValue = this.computeGoalFunction(h, deadline);
+
+            if(actualGoalValue > oldGoalValue) {
+                this.startTime = oldStartTime;
+            }
+        }
 
         int goalValueMutated = this.computeGoalFunction(h, deadline);
 

@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         String instancesPath = "instances/";
-        double h = 0.4;
-        Instance[] instances = new InstancesLoader(instancesPath + "sch100.txt").load();
+        double h = 0.8;
+        Instance[] instances = new InstancesLoader(instancesPath + "sch10.txt").load();
         long startTime;
         long timeElapsed;
         for(int i=0; i<instances.length; i++) {
